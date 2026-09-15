@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "sequence": 7,
+  "minimum_build": 1,
+  "devices": [
+    {
+      "id": "1a20aa4ad9291f1113d4971ddf622be9e293f3beacaf899079635cf0c25342bd",
+      "enabled": true,
+      "expires_at": 1789642080,
+      "entitlements": [
+        "private"
+      ]
+    },
+    {
+      "id": "3275129b463709ae976973c04968714c5a96559cf9f826a11c9e5d2ef5223f2c",
+      "enabled": true,
+      "expires_at": 1789642080,
+      "entitlements": [
+        "private"
+      ]
+    },
+    {
+      "id": "add74ef5a6b50583f04cd85846deefb312399186c355f34a7e813e0c8c58c422",
+      "enabled": true,
+      "expires_at": 1789642080,
+      "entitlements": [
+        "private"
+      ]
+    },
+    {
+      "id": "c236f6ba8f83557d6e3a0dabefd4efbba7f8675199054aff7cdfd10d5556fd76",
+      "enabled": true,
+      "expires_at": 1789642080,
+      "entitlements": [
+        "private"
+      ]
+    },
+    {
+      "id": "d3918ff50e7e1a644581fab2d1fd49b0f4a7ce93fad09b7d92500b6b3344ff28",
+      "enabled": true,
+      "expires_at": 1789642080,
+      "entitlements": [
+        "private"
+      ]
+    }
+  ]
+}
